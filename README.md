@@ -1,4 +1,4 @@
-# The Clojure Style Guide
+# The Clojure Style Guide 中文版
 
 > Role models are important. <br/>
 > -- Officer Alex J. Murphy / RoboCop
